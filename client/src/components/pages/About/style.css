@@ -1,0 +1,11 @@
+img{
+    float: left;
+    margin: 20px;
+    width: fit-content;
+}
+
+.img row{
+    float:right;
+    margin: 10px;
+    width: fit-content;
+}
