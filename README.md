@@ -20,6 +20,7 @@ Any feedback can be provided via email at [kalebgarrison@gmail.com](mailto:kaleb
 
 ## Usage 
 
+
 [Deployed Site](http://www.kalebgarrison.com/)
 
 [GitHub Repo Site](https://github.com/kalebgarrison/react-portfolio)
