@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "project_name": "User Directory",
+    "image": "/images/userdirectory.png",
+    "about": "This project was created using React and the users were generated dynamically using a random user API",
+    "link": "https://kalebgarrison.github.io/gt-user-directory/"
+  },
+  {
+    "id": 2,
+    "project_name": "Fitness Tracker",
+    "image": "/images/fitnesstracker.png",
+    "about": "This project was created using JS on the front end and using MongoDB on the backend.",
+    "link": "https://polar-headland-83987.herokuapp.com/"
+  },
+  {
+    "id": 3,
+    "project_name": "Maestro",
+    "image": "/images/maestro.png",
+    "about": "This project was made using JS and jQuery on the front end and also using an express server, Node.js and MySQL on the backend.",
+    "link": "https://secure-shelf-55938.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "project_name": "Burger Express",
+    "image": "/images/burger.png",
+    "about": "This project was made using JS and jQuery on the front end and also using an express server, Node.js and MySQL on the backend.",
+    "link": "https://shrouded-shelf-74373.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "project_name": "Food Forecaster",
+    "image": "/images/foodforecaster.png",
+    "about": "This project was made using JS and jQuery on the front end.",
+    "link": "https://kalebgarrison.github.io/food-forecaster/"
+  },
+  {
+    "id": 6,
+    "project_name": "Work Day Calendar",
+    "image": "/images/workday.png",
+    "about": "This project was made using jQuery.",
+    "link": "https://kalebgarrison.github.io/gt-calendar-hw/"
+  }
+]
