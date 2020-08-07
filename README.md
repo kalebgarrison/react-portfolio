@@ -1,7 +1,7 @@
 # react-portfolio
 
 ## Description 
-This is a User Directory app that I wrote using React that allows users to keep track of your employees. This material is designed to meet the standards set by the GT Full-stack program homework requirements. It is built using the languages mentioned and customized based on mockups in class. 
+This is my portfolio site that I wrote using React. This material is designed to meet the standards set by the GT Full-stack program homework requirements. It is built using the languages mentioned and customized based on mockups in class. 
 
 Any feedback can be provided via email at [kalebgarrison@gmail.com](mailto:kalebgarrison@gmail.com).
 
@@ -15,9 +15,8 @@ Any feedback can be provided via email at [kalebgarrison@gmail.com](mailto:kaleb
 
 ## Installation
 
-1. Open the GitHub pages link. 
-2. From here you can view the populated list of users. 
-3. You can then search through the users by their first name as well as sort by clicking the name button.
+1. Open the deployed Heroku link. 
+2. From here you can view the different pages in the site. 
 
 ## Usage 
 
