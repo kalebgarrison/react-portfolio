@@ -1,0 +1,14 @@
+.card {
+height: 400px;
+width: 18rem;
+margin-top: 25px;
+margin-right: 25px;
+}
+
+.card-img-top {
+    width: 250px
+}
+
+.card-body {
+    height: 300px;
+}

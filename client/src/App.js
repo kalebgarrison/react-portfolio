@@ -3,12 +3,13 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import './App.css';
 import axios from "axios";
 import Navbar from './components/Navbar/Navbar';
-import About from "./components/pages/About/About";
-import Portfolio from "./components/pages/Portfolio/Portfolio";
-import ContactMe from "./components/pages/ContactMe/ContactMe";
+import About from "./components/About/About";
+import Portfolio from "./components/Portfolio/Portfolio";
+import ContactMe from "./components/ContactMe/ContactMe";
+// import portfolio from "./portfolio.json";
 
 function App() {
-
+// console.log(portfolio)
   useEffect(() => {
     axios
       .get("/api/config")

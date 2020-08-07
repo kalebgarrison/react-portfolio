@@ -1,14 +1,15 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
+import "./style.css";
 
 const Navbar = () => {
   const location = useLocation();
 
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav id="bar" className="navbar navbar-expand-lg navbar-light bg-light">
         <a className="navbar-brand">
-          Kaleb Garrison
+         <strong>Kaleb Garrison</strong>
         </a>
         <button
           className="navbar-toggler"
@@ -22,7 +23,7 @@ const Navbar = () => {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
-          <div className="navbar-nav">
+          <div className="navbar-nav ml-auto">
             <Link
               to="/about"
               className={

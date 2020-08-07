@@ -5,8 +5,8 @@ const About = () => {
   return (
     <div className="container">
       <div className="row">
-        <div className="col-sm-7">
-          <h2>About Me</h2>
+        <div id="about" className="col-sm-7">
+          <h2 className="head">About Me</h2>
           <hr />
           <img src="/images/kaleb.jpg" alt="Kaleb" />
           <p>
@@ -23,7 +23,7 @@ const About = () => {
             software developer. I have over 6 years of experience working in
             support and have experience using the following: Slack, Zoom,
             Zendesk, HelpScout, LivePerson, GitHub, Zapier, HipChat, HTML, CSS,
-            JavaScript, jQuery, Notion, Atlassian, VS Code, Sketch, Photoshop,
+            JavaScript, jQuery, Node.js, Express, MySQL, MongoDB, React, Notion, Atlassian, VS Code, Sketch, Photoshop,
             InVisionApp, MailChimp, Appcues.
           </p>
         </div>
