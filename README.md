@@ -20,12 +20,10 @@ Any feedback can be provided via email at [kalebgarrison@gmail.com](mailto:kaleb
 
 ## Usage 
 
-[Deployed Site](https://kalebgarrison.github.io/gt-user-directory/)
 
-[GitHub Repo Site](https://github.com/kalebgarrison/gt-user-directory)
+[Deployed Site](http://www.kalebgarrison.com/)
 
-![alt text](./images/about.png) 
-
+[GitHub Repo Site](https://github.com/kalebgarrison/react-portfolio)
 
 
 
